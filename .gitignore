@@ -1,0 +1,7 @@
+data
+docs
+logs
+.ipynb_checkpoints
+app.ipynb
+run.bat
+__pycache__
